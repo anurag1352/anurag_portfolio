@@ -1,4 +1,4 @@
-# Community Portfolio
+# Anurag Portfolio
 
 A modern, responsive portfolio website built with Next.js 14, React 18, and Tailwind CSS. Features smooth animations powered by Framer Motion and a beautiful, interactive UI.
 
@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/iemafzalhassan/community_project.git
+git clone https://github.com/anurag1352/anurag_portfolio.git
 ```
 
 2. Navigate to the project directory:
@@ -84,12 +84,12 @@ npm start
 ```
 # Build the image
 ```bash
-docker build -t community-portfolio .
+docker build -t anurag-portfolio .
 ```
 
 # Run the container
 ```bash
-docker run -p 3000:3000 community-portfolio
+docker run -p 3000:3000 anurag-portfolio
 ```
 
 
